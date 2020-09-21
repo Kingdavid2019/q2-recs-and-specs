@@ -125,3 +125,8 @@ For different driving conditions I could implement more utilities in the UI such
 Lastly, for customers with disabilities I could include a couple of more features but that depends on what said disabilities are.
 
 ![Q1 Design](https://user-images.githubusercontent.com/47228167/93544495-d7540200-f923-11ea-810d-95f2248017d1.png)
+
+# q1-KennenReyes
+
+![q1](https://user-images.githubusercontent.com/47227934/93692313-20888b00-fab7-11ea-8f60-92ffc046f344.jpg)
+Temp control: The reason for being the closest to the driver (far left) is to have easy acceses to change the temp. to change it to what ever they to and is usually most used due to constant change. Fan speed: The right of the temp. control so they change the speed whenever they want to after finding the right temp. for themselves so it will be the 2nd that will be mostly used. Position: In the middle because since the driver will change the position once in a while but usually have in one setting for the most part. Recycled air- 2nd furthest because it's not really used unless it's really hot or cold outside so they can keep the temp. in the vechile constant at what ever tmemp. they chose. De-fog: furthest from the driver because it's only used in cold climate and winter. For customers in different countries: the temp. will also be in celcius next to the fahrenheit to those who read temp. in celcius. There will also be symbols/drawing that represents what each buttons does. For customers with disabilites: There is a voice -controll operations if needed. For customers with different driving conditions: for those countries who drive on the left side of the road the UI is reversed/flip for the driver.
