@@ -1,10 +1,12 @@
 David Comments:
 
 Zach Comments:
-
+Differences:
   Between all the other UI designs, the main difference is that the others' UI's are a lot simpler than mine. 
 They all have their options on one menu, instead of my multiple menus. Some UI's have symbols to represent what each 
-object does, others aren't so specific. It seems that I am the only one that included a settings.
+object does, others aren't so specific. It seems that I am the only one that included a settings button to change multiple things.
+
+Similarities:
   As for similarities, all the UI's seem to go with some sort of meter and arrow set up to indicate an increasing/decreasing
 power/temperature level. All the UI's implement a simple button press to alternate on/off for things like defog or air cycle.
 We all included ways to change temperature measurement as well.
