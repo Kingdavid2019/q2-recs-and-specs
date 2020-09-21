@@ -4,6 +4,10 @@
 
 # q1-David_Aycock
 
+
+![q2-sketch-david](https://github.com/Kingdavid2019/q2-recs-and-specs/blob/master/q2-sketch-david.jpg)
+
+
 The air is recycled internally, the button is on the UI right side 3rd button (car with arrow)
 
 Fan speed has a gauge on the bottom of the UI closer to the right side, has an upside down u shape which the user can drag their finger to increase or decrease the speed of the fan where left side button is off and right side button is max speed.
